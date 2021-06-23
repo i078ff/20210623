@@ -1,0 +1,19 @@
+body {
+  overflow: hidden;
+  background-color: greenyellow;
+}
+/* 追加分　*/
+#black-button {
+  color: #fff;
+  background-color: #000;
+}
+
+#red-button {
+  color: #fff;
+  background-color: #f00;
+}
+
+#draw-area {
+  background-color: skyblue;
+}
+/* 追加終了 */
